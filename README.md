@@ -1,6 +1,6 @@
 # Outpro.India — Corporate Digital Presence Platform
 
-> Live Site: https://outpro-india-nine.vercel.app/  
+> Live Site: https://outpro-india-omega.vercel.app/
 
 A full-stack production platform for Outpro India's corporate web presence — built with Next.js 14, a Node.js/Express REST API, and deployed on Vercel + AWS ECS Fargate.
 
